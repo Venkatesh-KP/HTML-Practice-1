@@ -1,0 +1,30 @@
+body {
+    background-color: #37517e;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.navbar-nav .nav-link {
+    color: white;
+}
+.navbar-nav .nav-link
+{
+    
+}
+.hero {
+    padding: 100px 0;
+    text-align: left;
+}
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+.hero p {
+    font-size: 1.2rem;
+    color: #adb5bd;
+}
+.btn-custom {
+    background-color: #0ec6eb;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
